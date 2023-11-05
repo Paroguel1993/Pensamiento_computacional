@@ -1,0 +1,19 @@
+Solicitar dos números y después vamos a mandar en pantalla la operación de multiplicación de esos dos números
+El usuario debe dar el resultado y yo le tengo que decir si está bien
+
+Inicio
+Declarar num1,num2,resultado, resultadoreal como real
+
+Escribir "Ingresa el número 1"
+Asignar a num1
+
+Escribir "Ingresa el número 2"
+Asignar a num2
+
+Escribir "Indica el resultado de la multiplicación"
+Asignar a resultado
+
+Resultadoreal= num1*num2
+
+Si el resultado es igual al resultadoreal entonces decir que es verdadero
+

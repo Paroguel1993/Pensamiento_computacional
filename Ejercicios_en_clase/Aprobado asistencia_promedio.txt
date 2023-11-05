@@ -1,0 +1,28 @@
+Inicio
+Definir nombre como (str)
+Definir cal1,cal2,cal3,cal4,promedio como reales
+Definir asistencia como (int)
+
+Escribir "Ingresa el nombre"
+Asignar nombre
+
+Escribir "Ingresa calificación 1"
+Asignar cal1
+
+Escribir "Ingresa calificación 2"
+Asignar cal2
+
+Escribir "Ingresa calificación 3"
+Asignar cal3
+
+Escribir "Ingresa calificación 4"
+Asignar cal4
+
+Promedio = (cal1+cal2+cal3+cal4) / 4
+
+Escribir "Ingresa asistencia"
+Asignar asistencia
+
+Escribir "Resultado de: " nombre "es" promedio >= 7 and asistencia >=24
+
+Fin
