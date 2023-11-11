@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Calcular_multi
 	//Definir las variables
 	Definir num1,num2,resultado, multi Como Real
 	Escribir "Ingresa el número 1"
